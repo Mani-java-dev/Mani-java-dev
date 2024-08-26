@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mani</h1>
 <h3 align="center">A passionate java developer from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mani-java-dev" alt="mani-java-dev" /></a> </p>
+<p align="left"> <a href="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTV3XcOLfLcVgvZ7VLbcc8kkZMzK1mDo3EMRw&s"><img src="https://github-profile-trophy.vercel.app/?username=mani-java-dev" alt="mani-java-dev" /></a> </p>
 
 - 🔭 I’m currently working on **Spring boot projects**
 
