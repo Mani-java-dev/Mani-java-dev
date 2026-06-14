@@ -21,4 +21,3 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mani-java-dev&show_icons=true&locale=en&layout=compact" alt="mani-java-dev" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mani-java-dev&show_icons=true&locale=en" alt="mani-java-dev" /></p>
